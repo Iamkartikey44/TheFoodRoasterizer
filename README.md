@@ -42,8 +42,7 @@ Welcome to **Roast Me Chef!!**, a fun and interactive web app that generates hil
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Iamkartikey44/roast-me-chef.git
-   cd roast-me-chef
+   git clone https://github.com/Iamkartikey44/TheFoodRoasterizer
    ```
 
 2. Install the required packages:
